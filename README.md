@@ -1,4 +1,5 @@
 # Reflection on cooKING Game Design
+## Xiang Ni
 
 ## Motivation
 When designing **cooKING**, I created this casual cooking game because of both my enthusiasm for pixel art aesthetics and my interest in exploring Vue's data management and component structures. In the game, the player would have to successfully cook 9 required dishes with the provided ingredients to become the cooKING.
